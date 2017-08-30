@@ -12,7 +12,7 @@ A commond wrapper on ```adb``` command to support install or uninstall multi-Apk
 
 > Uninstall Apks
 
-- On all device
+- On all devices
 
 ```ruby uninstallapp.rb --all com.name.apk```
 
