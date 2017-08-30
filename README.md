@@ -1,6 +1,6 @@
 # android-ins-unins-tool
 
-A commond wrapper on ```adb``` command to support install or uninstall multi-Apks.
+A commond wrapper on ```adb``` command to support install or uninstall multi-Apks. [githug mirror](https://github.com/XinyueZ/android-ins-unins-tool) .
 
 # Why
 
